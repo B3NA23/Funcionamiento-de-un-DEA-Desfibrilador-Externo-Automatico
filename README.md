@@ -31,6 +31,7 @@ bash
 git clone https://github.com/B3NA23/Funcionamiento-de-un-DEA-Desfibrilador-Externo-Automatico.git
 
 Usa el código con precaución.
+
 2. Abre **Unity Hub**.
 3. Haz clic en **Add** (Añadir) y selecciona la carpeta raíz del proyecto clonado.
 4. Asegúrate de tener instalada la versión de Unity correspondiente y abre el proyecto.
