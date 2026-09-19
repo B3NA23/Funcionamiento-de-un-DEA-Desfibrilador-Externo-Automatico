@@ -1,2 +1,2 @@
-# DEA proyecto final
+# Funcionamiento de un DEA (Desfibrilador Externo Automatico) 
 
