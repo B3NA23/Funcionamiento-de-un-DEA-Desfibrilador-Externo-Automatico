@@ -38,8 +38,6 @@ Usa el código con precaución.
 
 ### Para Usuarios (Probar la build)
 
-*(Opcional: Si tienes un enlace de itch.io o una sección de "Releases" en GitHub, puedes colocar los pasos aquí)* 
-
 1. Descarga la última versión desde la sección de [Releases](../../releases).
 2. Ejecuta el archivo .exe (o ejecutable correspondiente).
 
